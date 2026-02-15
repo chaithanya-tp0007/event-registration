@@ -38,15 +38,12 @@ Unlike basic forms, this system focuses on:
 
 ## 📂 Folder Structure
 
-
 event-registration/
 │
 ├── index.html        # Main interface
 ├── style.css         # Design & layout
 ├── script.js         # Form validation logic
 └── README.md         # Project documentation
-
-
 
 
 ## ▶️ How to Run
